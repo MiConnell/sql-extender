@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "sql-extender"
+  project_description: "Python package to extend sql functionality"
+  organization: "sql-extender"
+  license: "MIT"
+  version: "0.0.1"
+  github_name: "MiConnell"
+  email: "connellmp@gmail.com"
