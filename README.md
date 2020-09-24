@@ -1,4 +1,4 @@
-# sql-extender
+# sql-extender {template readme - not up to date}
 
 <div align="center">
 
